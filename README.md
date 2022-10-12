@@ -55,7 +55,7 @@ Luego recorta/optimiza/edita tu imagen como quieras, añádela a tu proyecto y a
 -vanilla Javascript
 -Sass
 -BEM metodology
-- [Styled Components](https://styled-components.com/) - For styles
+-Mobile first
 
 
 ### Lo que aprendí
